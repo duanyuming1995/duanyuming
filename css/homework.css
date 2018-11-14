@@ -1,0 +1,22 @@
+div
+{
+    height: 500px;
+    width: 400px;
+    background-color:lightslategrey;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+input
+{
+    height: 30px;
+    width: 80%;
+    text-align: center;
+}
+span
+{
+    font-size: 10px;
+    color: orange;
+}
